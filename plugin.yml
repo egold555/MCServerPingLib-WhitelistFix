@@ -1,0 +1,7 @@
+name: PingWhitelistFix
+main: org.golde.bukkit.pingwhitelistfix.Main
+version: 1.0
+author: Eric Golde
+description:
+website: http://eric.golde.org/
+depend: [ProtocolLib]
